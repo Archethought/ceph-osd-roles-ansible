@@ -26,7 +26,7 @@ cephx: true
 # Declare devices
 # All the scenarii inherit from the following device declaration
 #
-devices: [ '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde']
+devices: [ '/dev/sdb', '/dev/sdc', '/dev/sdd']
 
 
 # I. First scenario: journal and osd_data on the same device
